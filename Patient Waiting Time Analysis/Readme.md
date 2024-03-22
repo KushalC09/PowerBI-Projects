@@ -1,4 +1,4 @@
-**Patient Waiting Time Analysis Dashboard**
+**Patient Waiting List Analysis Dashboard**
 
 Some Snapshot of the project:
 
